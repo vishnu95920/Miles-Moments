@@ -1,0 +1,45 @@
+body{
+    background-color: grey;
+}
+
+.fa-compass
+{
+    color: red;
+}
+.nav-link
+{
+    color: #222222 !important;
+}
+.f-links a{
+    color: #222222 !important;
+    text-decoration: none;  
+}
+.f-links a:hover{
+    
+    text-decoration: underline;  
+}
+.f-links {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    
+}
+.f-social{
+    width: 100%;
+    font-size: 1.2rem;
+    margin-right: 1rem;
+}
+
+
+.footer-info{
+    text-align: center;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: space-evenly;
+   padding: 1rem;
+   background-color: #b1b3b5;
+   border-top: 1px solid #dee2e6;
+}
